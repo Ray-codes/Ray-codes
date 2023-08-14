@@ -1,5 +1,8 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%36BCF7FF&size=30&center=true&vCenter=true&width=450&lines=Hi+there+👋;I+am+Mohammed+Raiyaan;Computer+Science+Engineer;Technology+Enthusiast" alt="Typing SVG Short Intro"></a>
+</div>
 <!--
 **Ray-codes/Ray-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
